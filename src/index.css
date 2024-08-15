@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "AaYuanWeiTuSi-2";
+  src: url("/fonts/AaYuanWeiTuSi-2.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
